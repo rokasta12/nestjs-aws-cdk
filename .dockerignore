@@ -1,0 +1,5 @@
+.dockerignorenode_modules
+dist
+.git
+.env
+docker.env
